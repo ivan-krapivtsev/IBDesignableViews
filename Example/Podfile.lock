@@ -1,0 +1,16 @@
+PODS:
+  - IBDesignableViews (0.1.0)
+
+DEPENDENCIES:
+  - IBDesignableViews (from `../`)
+
+EXTERNAL SOURCES:
+  IBDesignableViews:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IBDesignableViews: 55a072a215face0aced7c6c9d933174a0e8f9ba6
+
+PODFILE CHECKSUM: 4e5b102c07cc6b141f4d891377960b3aa9b842ce
+
+COCOAPODS: 1.2.1

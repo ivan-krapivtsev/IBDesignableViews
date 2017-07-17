@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/IBDesignableViews.svg?style=flat)](http://cocoapods.org/pods/IBDesignableViews)
 [![Platform](https://img.shields.io/cocoapods/p/IBDesignableViews.svg?style=flat)](http://cocoapods.org/pods/IBDesignableViews)
 
+UIView category based on [rhodgkins/UIView-IBInspectable](https://github.com/rhodgkins/UIView-IBInspectable) rewritten in OBjective-C.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
