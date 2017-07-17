@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IBDesignableViews_Example' do
+  pod 'IBDesignableViews', :path => '../'
+
+  target 'IBDesignableViews_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
